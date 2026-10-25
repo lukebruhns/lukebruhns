@@ -21,7 +21,6 @@ Pre-registered evaluation ([OSF](https://osf.io/52xa7)) of 27 language models. M
 **The Identity-Refusal Effect** ([repo](https://github.com/lukebruhns/identity-refusal-effect), [dataset](https://huggingface.co/datasets/lukebruhns/identity-refusal-mfq2), [DOI](https://doi.org/10.5281/zenodo.19618747))
 Preprint. Safety-trained LLMs refuse first-person moral self-report at different rates across moral foundations, which skews MFQ-2 scores. 43,200 responses from 20 models, with a depersonalized item set that reduces the effect.
 
-**In progress:** a philosophy paper on single-objective moral frameworks and unintended consequences in advanced AI.
 
 ## Methods and tools
 
