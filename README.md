@@ -2,7 +2,7 @@
 
 Independent AI alignment researcher in Detroit, MI. I study how large language models represent and report moral values, how safety training shapes what they will and will not say about morality, and whether alignment can draw on a wider range of moral traditions than it does today.
 
-By day I am Director of Cybersecurity at Open Dealer Exchange, where I lead governance, risk, and compliance and run the company's AI Governance Committee.
+By day I am Director of Cybersecurity, where I lead governance, risk, and compliance and run the company's AI Governance Committee.
 
 ## Research interests
 
